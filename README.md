@@ -1,5 +1,5 @@
 
-#`<img src="frontend/src/assets/logo.png" alt="Logo" width="100">`
+`#<img src="frontend/src/assets/logo.png" alt="Logo" width="100">`
 
 
 
