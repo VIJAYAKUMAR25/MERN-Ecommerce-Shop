@@ -1,5 +1,5 @@
 
-![Logo](frontend/src/assets/logo.png)
+![Logo](front-end/src/components/Assets/logo.png)
 
 
 
