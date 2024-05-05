@@ -1,5 +1,5 @@
 
-![Logo](front-end/src/components/Assets/logo.png)
+![Logo](front-end/src/components/Assets/logo.png){: width="150px" height="150px"}
 
 
 
