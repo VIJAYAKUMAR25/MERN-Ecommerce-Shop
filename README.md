@@ -1,5 +1,6 @@
 
-`#<img src="frontend/src/assets/logo.png" alt="Logo" width="100">`
+![Logo](frontend/src/assets/logo.png)
+
 
 
 
