@@ -50,6 +50,9 @@ Contains the backend Node.js and Express.js application.
 
 To run the project locally, follow these steps:
 
+
+#Happy Coding!!
+
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the frontend directory: `cd frontend`
 3. Install frontend dependencies: `npm install`
