@@ -2,8 +2,6 @@
 ![Logo](front-end/src/components/Assets/logo.png){: width="150px" height="150px"}
 
 
-
-
 # MERN Stack E-Commerce Project
 
 Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) Stack E-Commerce Project repository! This project is a full-stack e-commerce website built using the MERN stack, allowing users to browse products, add them to the cart, and complete the checkout process.
