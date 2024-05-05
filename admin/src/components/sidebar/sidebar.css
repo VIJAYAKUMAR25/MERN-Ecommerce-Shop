@@ -1,0 +1,37 @@
+.sidebar-admin{
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+    gap: 2rem;
+    width: 100%;
+    max-width: 25rem;
+    height: 100vh;
+    background: white;
+}
+.sidebar-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 2rem;
+    padding: 5px 7px;
+    border-radius: 6px;
+    background: #6246ea;
+    color: white;
+    font-weight: bold;
+    gap: 1.5rem;
+    cursor: pointer;
+}
+
+@media (max-width:800px) {
+    .sidebar-admin{
+        padding: 3rem 0;
+        flex-direction: row;
+        width: 100%;
+        max-width: none;
+        height: auto;
+        justify-content: center;
+    }
+    .sidebar-item{
+        margin: 0;
+    }
+}

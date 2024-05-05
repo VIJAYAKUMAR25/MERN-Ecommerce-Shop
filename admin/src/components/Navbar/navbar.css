@@ -1,0 +1,26 @@
+.navbar-admin{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 5rem;
+    box-shadow: 0 1px 3px -2px #000;
+    margin-bottom: 1px;
+    background: white;
+}
+.nav-logo{
+    width: 20rem;
+}
+.nav-profile{
+    width: 8rem;
+}
+@media (max-width:800px) {
+    .navbar-admin{
+        padding: 1.2rem 2.5rem;
+    }
+    .nav-logo{
+        width: 15rem;
+    }
+    .nav-profile{
+        width: 7rem;
+    }
+}
