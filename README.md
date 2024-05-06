@@ -24,7 +24,7 @@ Implements user authentication and authorization using JWT (JSON Web Tokens). Al
 
 ### Admin Panel:
 
-Provides an admin panel for managing products, categories, and user orders. Allows admins to add new products, update existing ones, and view order details.
+Provides an admin panel for managing products, categories, and user orders. Allows admins to add new products, update existing ones.
 
 ## Project Structure
 
